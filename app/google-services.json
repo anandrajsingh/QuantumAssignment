@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563439140923",
+    "project_id": "quantumassignment-810ab",
+    "storage_bucket": "quantumassignment-810ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563439140923:android:9713ad224ef1517a6adc1e",
+        "android_client_info": {
+          "package_name": "com.example.quantumassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563439140923-nhkupcd86qak0bhpi9p0fte9l9273340.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCKUxvXRVhc97gtpfOVHDGY00rxSQwh30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563439140923-nhkupcd86qak0bhpi9p0fte9l9273340.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

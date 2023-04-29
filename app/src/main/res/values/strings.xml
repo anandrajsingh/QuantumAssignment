@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">QuantumAssignment</string>
+    <string name="socialx">SocialX</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signin_into_your_account">Sign Into your  Account</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="register">Register</string>
+    <string name="terms_amp_conditions"><u>terms &amp; conditions</u></string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="api_key">864406b97ff942dd88fe7ed404a1501c</string>
+    <string name="title">Apple admits slowing down older iPhones</string>
+    <string name="description">Customer have long suspected iPhones slow down over time.</string>
+    <string name="published_time">2 hours ago</string>
+    <string name="source">BBC</string>
+
+
+    <string name="facebook_app_id">1234</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">56789</string>
+
+
+</resources>
